@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd23c298-c1aa-4234-814b-902bbda3e0ec" name="Default Changelist" comment="" />
+    <list default="true" id="cd23c298-c1aa-4234-814b-902bbda3e0ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1idTtMaPVGn3ecdEGGLH1p2K1XA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.Main">
@@ -114,22 +123,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="454" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1602236719354" />
-    <state width="1419" height="121" key="GridCell.Tab.0.bottom" timestamp="1602489388250">
+    <state width="1419" height="121" key="GridCell.Tab.0.bottom" timestamp="1602504483015">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="121" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602489388250" />
-    <state width="1419" height="121" key="GridCell.Tab.0.center" timestamp="1602489388249">
+    <state width="1419" height="121" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602504483015" />
+    <state width="1419" height="121" key="GridCell.Tab.0.center" timestamp="1602504483011">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="121" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602489388249" />
-    <state width="1419" height="121" key="GridCell.Tab.0.left" timestamp="1602489388248">
+    <state width="1419" height="121" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602504483011" />
+    <state width="1419" height="121" key="GridCell.Tab.0.left" timestamp="1602504483010">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="121" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602489388248" />
-    <state width="1419" height="121" key="GridCell.Tab.0.right" timestamp="1602489388250">
+    <state width="1419" height="121" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602504483010" />
+    <state width="1419" height="121" key="GridCell.Tab.0.right" timestamp="1602504483014">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="121" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602489388250" />
+    <state width="1419" height="121" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602504483014" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1602487709052">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

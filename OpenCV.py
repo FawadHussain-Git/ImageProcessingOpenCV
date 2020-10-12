@@ -8,7 +8,8 @@ from PIL import Image, ImageFilter
 class ImageProcess:
 
     def __init__(self,image):
-        self.image = cv2.imread(image)
+
+        self.image = image
         self.image2 = None
         self.resultImage = None
         self.resultImage2 = None

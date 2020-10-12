@@ -1,9 +1,21 @@
 from OpenCV import ImageProcess
+import cv2
 
 def main():
 
-    imageProcess = ImageProcess("AM04NES.JPG")
-
+    # imageProcess = ImageProcess("AM04NES.JPG")
+    while(1):
+        cap = cv2.VideoCapture(0)
+        _, frame = cap.read()
+        cv2.imshow('frame', frame)
+        print(type(frame))
+        k = cv2.waitKey(5) & 0xFF
+        if k == 27:
+            break
+    cv2.destroyAllWindows()
+    cap.release()
+    
+    imageProcess = ImageProcess(frame)
     # print("Image before resize")
     # h, w = imageProcess.getDiminsion()
     #
@@ -50,8 +62,8 @@ def main():
     # imageProcess.imageComparsionRGB()
     # imageProcess.imageComparsionGray()
 
-    imageProcess.laplacianFilterEdgeDetection(9)
-    imageProcess.imageComparisionOf3Images()
+    # imageProcess.laplacianFilterEdgeDetection(9)
+    # imageProcess.imageComparisionOf3Images()
 
     # imageProcess.frequencyFilter()
     # imageProcess.imageComparsionGray()
